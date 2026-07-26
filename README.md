@@ -1,6 +1,4 @@
-# technical_interview_prep
-# LeetCode practice
- 
+# Technical Interview Prep 
 Each folder is one problem, scaffolded by `pull_question.py`: the statement, a
 solution stub with the real signature, and pytest cases pre-filled from the
 worked examples on the problem page.
@@ -43,3 +41,5 @@ argument to turn one on.
 | 1 | [FizzBuzz](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0412-fizz-buzz) | Easy | YES | Basic coding and operands |
 | 2 | [Max Rectangle](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0085-maximal-rectangle/) | Hard | YES | Dynamic programming, recursive functions |
 | 3 | [Sort GCD](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1998-gcd-sort-of-an-array) | Hard | No |  |
+| 4 | [Maximum Sum](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1031-maximum-sum-of-two-non-overlapping-subarrays) | Medium | YES | Optimal Selection, Sliding Windows |
+| 5 | [$k^{th}$ Smallest Instruction](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1643=kth-smallest-instructions) | Hard | YES | Optimal pathing, recursive programming |
