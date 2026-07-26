@@ -10,13 +10,13 @@ then scaffold a practice folder:
                                worked examples on the problem page
 
 Usage:
-    python pick_question.py                          # pick one, scaffold it
-    python pick_question.py --csv questions.csv --out ./problems
-    python pick_question.py --difficulty Medium --topic "Dynamic Programming"
-    python pick_question.py --seed 42                # reproducible pick
-    python pick_question.py --title "Two Sum"        # scaffold a specific one
-    python pick_question.py --count 3                # scaffold several
-    python pick_question.py --no-fetch               # offline, generic stub
+    python pull_question.py                          # pick one, scaffold it
+    python pull_question.py --csv questions.csv --out ./problems
+    python pull_question.py --difficulty Medium --topic "Dynamic Programming"
+    python pull_question.py --seed 42                # reproducible pick
+    python pull_question.py --title "Two Sum"        # scaffold a specific one
+    python pull_question.py --count 3                # scaffold several
+    python pull_question.py --no-fetch               # offline, generic stub
 
 CSV headers expected:
     Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
