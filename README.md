@@ -36,14 +36,10 @@ argument to turn one on.
 3. Add your own edge cases, then re-run.
 4. Log a row in the table below.
 ## Progress
- 
-- **Solved** -- date you got it green (`2026-07-25`)
-- **Min** -- minutes at the keyboard · **Try** -- submission attempts
-- **Result** -- `solo` unaided · `hint` needed a hint · `peek` read a solution · `redo` revisited
-- **Time / Space** -- the complexity you landed on (`O(n)` / `O(1)`)
-- **Conf** -- 1 (would fail again) to 5 (could write it from memory)
-- **Notes** -- the one insight you'd want on a re-read
+
+
 | # | Problem | Diff | Solved |    Focus    |
 |---|---------|------|--------|-------------|
 | 1 | [FizzBuzz](0412-fizz-buzz/) | Easy | YES | Basic coding and operands |
 | 2 | [Max Rectangle](0085-maximal-rectangle/) | Hard | YES | Dynamic programming, recursive functions |
+| 3 | [Sort GCD](1998-gcd-sort-of-an-array) | Hard | No |  |
