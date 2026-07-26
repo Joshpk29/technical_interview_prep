@@ -36,10 +36,12 @@ argument to turn one on.
 ## Progress
 
 
-| # | Problem | Diff | Solved |    Focus    |
-|---|---------|------|--------|-------------|
-| 1 | [FizzBuzz](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0412-fizz-buzz) | Easy | YES | Basic coding and operands |
-| 2 | [Max Rectangle](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0085-maximal-rectangle/) | Hard | YES | Dynamic programming, recursive functions |
+| # | Problem | Diff | Solved |    Focus    | Completion Date | 
+|---|---------|------|--------|-------------|-----------------|
+| 1 | [FizzBuzz](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0412-fizz-buzz) | Easy | YES | Basic coding and operands | 07/25/2026
+| 2 | [Max Rectangle](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0085-maximal-rectangle/) | Hard | YES | Dynamic programming, recursive functions |  07/25/2026
 | 3 | [Sort GCD](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1998-gcd-sort-of-an-array) | Hard | No |  |
-| 4 | [Maximum Sum](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1031-maximum-sum-of-two-non-overlapping-subarrays) | Medium | YES | Optimal Selection, Sliding Windows |
-| 5 | [$k^{th}$ Smallest Instruction](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1643-kth-smallest-instructions) | Hard | YES | Optimal pathing, recursive programming |
+| 4 | [Maximum Sum](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1031-maximum-sum-of-two-non-overlapping-subarrays) | Medium | YES | Optimal Selection, Sliding Windows |  07/26/2026
+| 5 | [$k^{th}$ Smallest Instruction](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1643-kth-smallest-instructions) | Hard | YES | Optimal pathing, recursive programming |  07/26/2026
+| 6 | [Two Sum](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0001-two-sum) | Easy | YES | basic iteration, programming |  07/26/2026
+| 7 | [Phone Combinations](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0017-letter-combinations-of-a-phone-number]) | Medium | YES | combinatronics |  07/26/2026
