@@ -40,6 +40,6 @@ argument to turn one on.
 
 | # | Problem | Diff | Solved |    Focus    |
 |---|---------|------|--------|-------------|
-| 1 | [FizzBuzz](0412-fizz-buzz/) | Easy | YES | Basic coding and operands |
-| 2 | [Max Rectangle](0085-maximal-rectangle/) | Hard | YES | Dynamic programming, recursive functions |
-| 3 | [Sort GCD](1998-gcd-sort-of-an-array) | Hard | No |  |
+| 1 | [FizzBuzz](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0412-fizz-buzz) | Easy | YES | Basic coding and operands |
+| 2 | [Max Rectangle](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0085-maximal-rectangle/) | Hard | YES | Dynamic programming, recursive functions |
+| 3 | [Sort GCD](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1998-gcd-sort-of-an-array) | Hard | No |  |
