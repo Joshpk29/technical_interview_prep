@@ -44,4 +44,4 @@ argument to turn one on.
 | 4 | [Maximum Sum](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1031-maximum-sum-of-two-non-overlapping-subarrays) | Medium | YES | Optimal Selection, Sliding Windows |  07/26/2026
 | 5 | [$k^{th}$ Smallest Instruction](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/1643-kth-smallest-instructions) | Hard | YES | Optimal pathing, recursive programming |  07/26/2026
 | 6 | [Two Sum](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0001-two-sum) | Easy | YES | basic iteration, programming |  07/26/2026
-| 7 | [Phone Combinations](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0017-letter-combinations-of-a-phone-number]) | Medium | YES | combinatronics |  07/26/2026
+| 7 | [Phone Combinations](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0017-letter-combinations-of-a-phone-number%5D]) | Medium | YES | combinatronics |  07/26/2026
