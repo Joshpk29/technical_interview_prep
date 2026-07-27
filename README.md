@@ -47,5 +47,5 @@ argument to turn one on.
 | 7 | [Phone Combinations](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0017-letter-combinations-of-a-phone-number) | Medium | YES | Combinatronics |  07/26/2026
 | 8 | [New 21 Game](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0837-new-21-game) | Medium | YES | Probability & Statistics |  07/27/2026
 | 9 | [Reverse Polish Notation](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0150-evaluate-reverse-polish-notation) | Medium | YES | Stack, Mathimatics |  07/27/2026
-| 10 | [Sales by Day of the Week](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0150-evaluate-reverse-polish-notation) | Hard | NO | Databases |  07/27/2026
+| 10 | [Sales by Day of the Week](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0150-evaluate-reverse-polish-notation) | Hard | NO | Databases | 
 | 11 | [Random Pick With Weight](https://github.com/Joshpk29/technical_interview_prep/tree/main/problems/0528-random-pick-with-weight) | Medium | YES | Statistics & Probability |  07/27/2026
